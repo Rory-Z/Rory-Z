@@ -1,6 +1,6 @@
 #### 😬 Hi, I am [Rory Z](https://github.com/Rory-Z)
 
->  Work at [EMQ X](https://emqx.io) as a software engineer. Developer and maintainer of [emqx](https://github.com/emqx/emqx)
+>  Work at [EMQ](https://emqx.io) as a software engineer. Developer and maintainer of [emqx](https://github.com/emqx/emqx)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rory-z&show_icons=true" />	
 
